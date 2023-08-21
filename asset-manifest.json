@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vasyok777/reload/static/css/main.bba834e9.css",
+    "main.js": "/Vasyok777/reload/static/js/main.304e50ff.js",
+    "index.html": "/Vasyok777/reload/index.html",
+    "main.bba834e9.css.map": "/Vasyok777/reload/static/css/main.bba834e9.css.map",
+    "main.304e50ff.js.map": "/Vasyok777/reload/static/js/main.304e50ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba834e9.css",
+    "static/js/main.304e50ff.js"
+  ]
+}
